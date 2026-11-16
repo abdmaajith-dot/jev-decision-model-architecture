@@ -6,15 +6,12 @@ Complete architecture of a Jev-style decision model (TypeSafe AI's "System One")
 
 ## Open the drawing
 
-**One-click (editable):** copy the link below into your browser. Excalidraw fetches the scene straight from this repo.
+1. Download [`jev-decision-model-architecture.excalidraw`](jev-decision-model-architecture.excalidraw) from this repo.
+2. Drag the file onto [excalidraw.com](https://excalidraw.com).
 
-```
-https://excalidraw.com/
-```
+It opens as a live, fully editable drawing — 89 elements, five lanes, every box and arrow selectable.
 
-**Drag and drop:** download `jev-decision-model-architecture.excalidraw` and drag it onto [excalidraw.com](https://excalidraw.com). It opens as a live, fully editable drawing.
-
-**Preview:** `jev-decision-model-architecture-preview.png`
+**Preview:** [`jev-decision-model-architecture-preview.png`](jev-decision-model-architecture-preview.png)
 
 ## What the diagram says
 
